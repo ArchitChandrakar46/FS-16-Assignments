@@ -1,0 +1,13 @@
+section {
+    background-color: #FFD166; /* Vibrant yellow */
+    padding: 200px;
+    text-align: center;
+}
+
+section h2 {
+    color: #2A9D8F; /* Vibrant green */
+}
+
+section p {
+    color: #264653; /* Deep blue */
+}
